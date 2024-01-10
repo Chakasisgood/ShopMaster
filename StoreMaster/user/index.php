@@ -15,7 +15,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
         <!-- title of the system -->
-        <title>Sample Student CRUD</title>
+        <title>Users Info</title>
 </head>
 <body>
 
@@ -27,9 +27,9 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4> Sample Students Details
+                        <h4> Users Information
                             <!-- link to create new student data --> 
-                            <a href="student-create.php" class="btn btn-primary float-end"> Add Students</a>
+                            <a href="student-create.php" class="btn btn-primary float-end"> Add New Admin</a>
                         </h4>
                     </div>
                     <div class="card-body">

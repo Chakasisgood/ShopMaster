@@ -33,18 +33,18 @@
 					<span class="text">My Store</span>
 				</a>
 			</li>
-			<li>
+			<!-- <li>
 				<a href="#">
 					<i class='bx bxs-doughnut-chart' ></i>
 					<span class="text">Analytics</span>
 				</a>
-			</li>
-			<li>
+			</li> -->
+			<!-- <li>
 				<a href="#">
 					<i class='bx bxs-message-dots' ></i>
 					<span class="text">Message</span>
 				</a>
-			</li>
+			</li> -->
 			<li>
 				<a href="user/index.php">
 					<i class='bx bxs-group' ></i>
@@ -53,12 +53,12 @@
 			</li>
 		</ul>
 		<ul class="side-menu">
-			<li>
+			<!-- <li>
 				<a href="#">
 					<i class='bx bxs-cog' ></i>
 					<span class="text">Settings</span>
 				</a>
-			</li>
+			</li> -->
 			<li>
 				<a href="#" class="logout">
 					<i class='bx bxs-log-out-circle' ></i>
@@ -90,7 +90,7 @@
 				<span class="num">8</span>
 			</a>
 			<a href="#" class="profile">
-				<img src="img/people.png">
+				<img src="Logo/Logo.jpeg">
 			</a>
 		</nav>
 		<!-- NAVBAR -->

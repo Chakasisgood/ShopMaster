@@ -35,13 +35,13 @@
                     <div class="dropdown-links">
                       <a href="#nike" class="link">Nike</a>
                       <a href="#adidas" class="link">Adidas</a>
-                      <a href="Converse.html" class="link">Converse</a>
-                      <a href="Puma.html" class="link">Puma</a>
-                      <a href="Vans.html" class="link">Vans</a>
-                      <a href="Jordan.html" class="link">Jordan</a>
-                      <a href="NewBalance.html" class="link">New Balance</a>
-                      <a href="Crocs.html" class="link">Crocs</a>
-                      <a href="Skechers.html" class="link">Skechers</a>
+                      <a href="#converse" class="link">Converse</a>
+                      <a href="#puma" class="link">Puma</a>
+                      <a href="#vans" class="link">Vans</a>
+                      <a href="#jordan" class="link">Jordan</a>
+                      <a href="#new balance" class="link">New Balance</a>
+                      <a href="#crocs" class="link">Crocs</a>
+                      <a href="#skechers" class="link">Skechers</a>
                     </div>
                   </div>
                 </div>
@@ -54,7 +54,7 @@
                 <a href="#"><i class='bx bx-search'></i></a>
 
                 <div class="dropdown" data-dropdown>
-                    <img src="img/profile1.png" id="profile" class="nav-link" data-dropdown-button>
+                    <img src="image/download1.jpg" id="profile" class="nav-link" data-dropdown-button>
                         <div class="dropdown-logout information-grid">
                         <div>
                             <div class="dropdown-links">

@@ -11,7 +11,7 @@ require 'dbcon.php';
 	
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-	<title>Sample Student Edit</title>
+	<title>Edit Users</title>
 </head>
 <body>
 
@@ -23,7 +23,7 @@ require 'dbcon.php';
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
-						<h4> Sample Student Edit
+						<h4> Edit Users
 
 							<a href="index.php" class="btn btn-danger float-end">BACK</a>
 						</h4>
